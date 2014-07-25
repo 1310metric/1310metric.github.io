@@ -1,0 +1,156 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg>
+<metadata>
+Created by FontForge 20090914 at Fri Jan 31 11:40:54 2014
+ By www-data
+</metadata>
+<defs>
+<font id="1310metric-Regular" horiz-adv-x="600" >
+  <font-face 
+    font-family="1310metric"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="1000"
+    panose-1="0 0 5 0 0 0 0 0 0 0"
+    ascent="800"
+    descent="-200"
+    bbox="10 -17.002 751.001 761"
+    underline-thickness="50"
+    underline-position="-50"
+    unicode-range="U+000D-U+007A"
+  />
+<missing-glyph horiz-adv-x="250" 
+ />
+    <glyph glyph-name=".notdef" horiz-adv-x="250" 
+ />
+    <glyph glyph-name="NULL" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="NULL" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="B" unicode="&#xd;" 
+ />
+    <glyph glyph-name="space" unicode=" " 
+ />
+    <glyph glyph-name="zero" unicode="0" horiz-adv-x="548" 
+d="M278 761c69.333 0 126.667 -36.333 172 -109c45.333 -73.333 68 -165.666 68 -276.999c0 -114 -22.667 -207.333 -68 -280c-45.333 -72 -104 -108 -176 -108c-74 0 -133 35.333 -177 106c-44.667 71.333 -67 164.666 -67 279.999c0 114.667 23 208 69 280
+s105.667 108 179 108zM274.001 658c-42 0 -75.001 -25.667 -99.001 -77c-24.667 -50 -37 -119 -37 -207c0 -90 12 -160.333 36 -211s57 -76 99 -76c41.333 0 74.333 25.333 99 76c24 50.667 36 119.667 36 207s-11.667 157.333 -35 210c-23.333 52 -54.666 78 -93.999 78h-5
+z" />
+    <glyph glyph-name="one" unicode="1" horiz-adv-x="168" 
+d="M138 758v-756h-108v756h108z" />
+    <glyph glyph-name="three" unicode="3" horiz-adv-x="439" 
+d="M145 432c46.667 0 82.666 9.66504 107.999 28.998c24.667 20 37 48.333 37 85c0 33.333 -12 60.666 -36 81.999c-23.333 20.667 -54.666 31 -93.999 31c-40 0 -83.667 -12.333 -131 -37v104c44 22 92 33 144 33c69.333 0 124.333 -18.333 165 -55
+c40 -36 60 -85.667 60 -149c0 -37.333 -7.66699 -69.666 -23 -96.999c-16 -25.333 -41 -47.666 -75 -66.999c30.667 -12.667 52.334 -27 65.001 -43c14 -16 24.667 -36 32 -60c8 -24 12 -49.333 12 -76c0 -66.667 -22 -121.334 -66 -164.001
+c-44.667 -43.333 -100.334 -65 -167.001 -65c-58 0 -113.333 14 -166 42v118c56.667 -36 112 -54 166 -54c36.667 0 66 11 88 33c22 20.667 33 49.334 33 86.001c0 30 -9 56 -27 78c-10.667 12.667 -22.667 22 -36 28c-7.33301 3.33301 -18 6.33301 -32 9
+s-32 5.33398 -54 8.00098l-9 1v100h6z" />
+    <glyph glyph-name="A" unicode="A" 
+ />
+    <glyph glyph-name="C" unicode="C" 
+ />
+    <glyph glyph-name="D" unicode="D" 
+ />
+    <glyph glyph-name="E" unicode="E" 
+ />
+    <glyph glyph-name="F" unicode="F" 
+ />
+    <glyph glyph-name="G" unicode="G" 
+ />
+    <glyph glyph-name="H" unicode="H" 
+ />
+    <glyph glyph-name="I" unicode="I" 
+ />
+    <glyph glyph-name="J" unicode="J" 
+ />
+    <glyph glyph-name="K" unicode="K" 
+ />
+    <glyph glyph-name="L" unicode="L" 
+ />
+    <glyph glyph-name="M" unicode="M" 
+ />
+    <glyph glyph-name="N" unicode="N" 
+ />
+    <glyph glyph-name="O" unicode="O" 
+ />
+    <glyph glyph-name="P" unicode="P" 
+ />
+    <glyph glyph-name="Q" unicode="Q" 
+ />
+    <glyph glyph-name="R" unicode="R" 
+ />
+    <glyph glyph-name="S" unicode="S" 
+ />
+    <glyph glyph-name="T" unicode="T" 
+ />
+    <glyph glyph-name="U" unicode="U" 
+ />
+    <glyph glyph-name="V" unicode="V" 
+ />
+    <glyph glyph-name="W" unicode="W" 
+ />
+    <glyph glyph-name="X" unicode="X" 
+ />
+    <glyph glyph-name="Y" unicode="Y" 
+ />
+    <glyph glyph-name="Z" unicode="Z" 
+ />
+    <glyph glyph-name="a" unicode="a" 
+ />
+    <glyph glyph-name="b" unicode="b" 
+ />
+    <glyph glyph-name="c" unicode="c" horiz-adv-x="443" 
+d="M404 425c-48.667 21.333 -92 32 -130 32c-56 0 -101 -19.333 -135 -58c-35.333 -39.333 -53 -89.666 -53 -150.999c0 -62 17.667 -111.667 53 -149c34 -37.333 80.667 -56 140 -56c41.333 0 86 9.66699 134 29v-55c-50.667 -17.333 -97 -26 -139 -26
+c-73.333 0 -132.333 23.333 -177 70c-44.667 45.333 -67 105.666 -67 180.999c0 78.667 22.667 142.667 68 192c44.667 50 102.334 75 173.001 75c39.333 0 83.666 -8.33301 132.999 -25v-59z" />
+    <glyph glyph-name="d" unicode="d" 
+ />
+    <glyph glyph-name="e" unicode="e" horiz-adv-x="509" 
+d="M86 275c-0.666992 -4 -0.999023 -8.16504 -0.999023 -12.498v-13.5c0 -54.667 19.667 -101.667 59 -141c40.667 -38.667 87.667 -58 141 -58c62.667 0 124.334 24.667 185.001 74v-60c-57.333 -44 -121 -66 -191 -66c-72.667 0 -132.334 25 -179.001 75
+c-46.667 49.333 -70 112.666 -70 189.999c0 72 21.667 132.333 65 181c42.667 48 97 72 163 72c61.333 0 113.666 -21.667 156.999 -65c42.667 -42.667 64 -101.334 64 -176.001h-393zM416.001 318.002c-19.333 97.333 -72 146 -158 146c-40.667 0 -75.667 -12.667 -105 -38
+c-30 -26 -50 -62 -60 -108h323z" />
+    <glyph glyph-name="f" unicode="f" 
+ />
+    <glyph glyph-name="g" unicode="g" 
+ />
+    <glyph glyph-name="h" unicode="h" 
+ />
+    <glyph glyph-name="i" unicode="i" horiz-adv-x="114" 
+d="M84 666h-54v91h54v-91zM84 1h-54v498h54v-498z" />
+    <glyph glyph-name="j" unicode="j" 
+ />
+    <glyph glyph-name="k" unicode="k" 
+ />
+    <glyph glyph-name="l" unicode="l" 
+ />
+    <glyph glyph-name="m" unicode="m" horiz-adv-x="781" 
+d="M83 412l1.99902 0.00195312c41.333 65.333 94.333 98 159 98c76 0 129.667 -40 161 -120c46.667 80 104.334 120 173.001 120c50.667 0 92.334 -18.333 125.001 -55c32 -37.333 48 -86.333 48 -147v-306h-53v283c0 53.333 -11.667 95.666 -35 126.999
+c-22.667 30.667 -54.334 46 -95.001 46c-31.333 0 -58.333 -9.33301 -81 -28s-46 -48.334 -70 -89.001v-339h-53v284c0 54.667 -12 97 -36 127s-55.667 45 -95 45c-58 0 -108 -35.667 -150 -107v-349h-53v498h53v-88z" />
+    <glyph glyph-name="n" unicode="n" 
+ />
+    <glyph glyph-name="o" unicode="o" 
+ />
+    <glyph glyph-name="p" unicode="p" 
+ />
+    <glyph glyph-name="q" unicode="q" 
+ />
+    <glyph glyph-name="r" unicode="r" horiz-adv-x="404" 
+d="M343 400c-42 38 -75.334 57 -100.001 57c-49.333 0 -102.666 -47.667 -159.999 -143v-313h-53v498h53v-131h2c60 94 118.333 141 175 141c31.333 0 69.333 -19.667 114 -59z" />
+    <glyph glyph-name="s" unicode="s" 
+ />
+    <glyph glyph-name="t" unicode="t" horiz-adv-x="412" 
+d="M217 499h140.002v-43h-140v-296c0 -48 4 -79.333 12 -94c8 -15.333 28.667 -23 62 -23c27.333 0 57.666 8.33301 90.999 25v-51c-36 -17.333 -70 -26 -102 -26c-32.667 0 -60.334 9.33301 -83.001 28c-22 18.667 -33 44.667 -33 78v359h-134v43h134v119l37 46h16v-165z
+" />
+    <glyph glyph-name="u" unicode="u" 
+ />
+    <glyph glyph-name="v" unicode="v" 
+ />
+    <glyph glyph-name="w" unicode="w" 
+ />
+    <glyph glyph-name="x" unicode="x" 
+ />
+    <glyph glyph-name="y" unicode="y" 
+ />
+    <glyph glyph-name="z" unicode="z" 
+ />
+    <glyph glyph-name="newGlyph" 
+ />
+  </font>
+</defs></svg>
